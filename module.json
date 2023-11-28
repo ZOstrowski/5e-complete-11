@@ -161,7 +161,7 @@
         }
     ],
     "url": "https://github.com/btbias/5e-complete",
-    "manifest": "https://raw.githubusercontent.com/Josanshuo/5e-complete/main/module.json",
+    "manifest": "https://github.com/ZOstrowski/5e-complete-11/blob/main/module.json",
     "download": "https://github.com/Josanshuo/5e-complete/archive/refs/tags/v0.3.4.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
